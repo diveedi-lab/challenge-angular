@@ -1,5 +1,5 @@
 # Angular Challenge :trophy:
-##Contesto <br />
+## Contesto <br />
 
 Neetflux, promettente startup che lavora nel mondo della distribuzione di video on demand, ti ha appena assunto.
 Mancavano solo sette giorni al lancio della nuova, innovativa, piattaforma aziendale per la fruizione di serie TV, quando il CTO vince al superenalotto e decide di partire per fare il giro del mondo lasciando tutto e tutti.
