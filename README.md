@@ -14,10 +14,10 @@ Finito di leggere pensi che alla fine non è così impossibile chiudere tutto in
 # Features :memo:
 L'applicazione deve avere le seguenti features per aiutare gli untenti a cercate e fruire i loro contenuti preferiti:
 
-- Implementare una Search Bar per riercare i film per titolo
+- Una Search Bar per riercare i film per titolo
 - Dei filtri per raggruppare i film per genere
-- Dare la possibilità di cambiare il tema (chiaro/scuro) 
-- Creare una pagina profilo dove sia possible specificare le preferenze sul tema chiar/scuro e l'email dell'utente.
+- Gli utenti devono poter cambiare il tema dell'applicazione (chiaro/scuro) 
+- Una pagina profilo dove l'utente possa specificare le proprie preferenze sul tema chiar/scuro e inserire la propria email.
 
 ## Start up the project :rocket:
 All'interno del Read.me trovi le istruzioni del CTO per lanciare il progetto.
