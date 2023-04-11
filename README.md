@@ -1,5 +1,5 @@
 # Angular Challenge :trophy:
-**Contesto** <br />
+##Contesto <br />
 
 Neetflux, promettente startup che lavora nel mondo della distribuzione di video on demand, ti ha appena assunto.
 Mancavano solo sette giorni al lancio della nuova, innovativa, piattaforma aziendale per la fruizione di serie TV, quando il CTO vince al superenalotto e decide di partire per fare il giro del mondo lasciando tutto e tutti.
@@ -11,7 +11,7 @@ Con voce tremante dici che farai del tuo meglio… Il CEO ti abbraccia e dopo un
 Deve poter essere possibile cambiare tema (light\dark) dell’applicativo e configurare il proprio indirizzo email per ricevere aggiornamenti sui film preferiti.”*
 
 Finito di leggere pensi che alla fine non è così impossibile chiudere tutto in 7 giorni, fai un bel respiro profondo e inizi a pensare che forse questa è proprio la tua occasione. Accendi il pc e inizi a scrivere una lista dei task da fare...
-# Features :memo:
+## Features :memo:
 L'applicazione deve avere le seguenti features per aiutare gli untenti a cercate e fruire i loro contenuti preferiti:
 
 - Una Search Bar per riercare i film per titolo
