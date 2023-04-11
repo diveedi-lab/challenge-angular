@@ -10,7 +10,7 @@ Con voce tremante dici che farai del tuo meglio… Il CEO ti abbraccia e dopo un
 *“Implementare un applicativo web che ti permetta di consultare una lista di serie tv e cercare per nome le serie tv, consultare le serie tv raggruppate per genere e consultare il dettaglio di una serie tv selezionata.
 Deve poter essere possibile cambiare tema (light\dark) dell’applicativo e configurare il proprio indirizzo email per ricevere aggiornamenti sui film preferiti.”*
 
-Finito di leggere pensi che alla fine non è così impossibile chiudere tutto in 7 giorni, fai un bel respiro profondo e inizi a pensare che forse questa è proprio la tua occasione. Accendi il pc e inizi a scrivere e cominci a fare una lista dei task da fare...
+Finito di leggere pensi che alla fine non è così impossibile chiudere tutto in 7 giorni, fai un bel respiro profondo e inizi a pensare che forse questa è proprio la tua occasione. Accendi il pc e inizi a scrivere una lista dei task da fare...
 # Features :memo:
 L'applicazione deve avere le seguenti features per aiutare gli untenti a cercate e fruire i loro contenuti preferiti:
 
