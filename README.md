@@ -12,13 +12,13 @@ Deve poter essere possibile cambiare tema (light\dark) dell’applicativo e conf
 
 Finito di leggere pensi che alla fine non è così impossibile chiudere tutto in 7 giorni, fai un bel respiro profondo e inizi a pensare che forse questa è proprio la tua occasione. Accendi il pc e inizi a scrivere una lista dei task da fare...
 ## Feature :memo:
-L'applicazione deve avere le seguenti feature per aiutare gli untenti a fruire dei loro contenuti preferiti:
+L'applicazione deve avere le seguenti feature per aiutare gli utenti a fruire dei loro contenuti preferiti:
 
-- Una Search Bar per riercare le serie tv per titolo.
+- Una Search Bar per ricercare le serie tv per titolo.
 - Una pagina per consultare il dettaglio di una serie tv.
 - Una vista per consultare le serie tv raggruppate per genere. 
 - Cambio tema: gli utenti devono poter cambiare il tema dell'applicazione (chiaro/scuro).
-- Una pagina profilo dove l'utente possa specificare le proprie preferenze sul tema chiar/scuro e inserire la propria email.
+- Una pagina profilo dove l'utente possa specificare le proprie preferenze sul tema chiaro/scuro e inserire la propria email.
 
 ## Start up :rocket:
 Di seguito le istruzioni per avviare il progetto:
